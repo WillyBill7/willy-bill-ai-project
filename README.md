@@ -1,2 +1,2 @@
 # willy-bill-ai-project
-AI chatbot deployed on Varcel
+AI chatbot deployed on Vercel
